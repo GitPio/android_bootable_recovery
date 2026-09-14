@@ -1,4 +1,4 @@
-name: C/C++ CI
+[![C/C++ CI](https://github.com/GitPio/android_bootable_recovery/actions/workflows/c-cpp.yml/badge.svg?event=milestone)](https://github.com/GitPio/android_bootable_recovery/actions/workflows/c-cpp.yml)name: C/C++ CI
 
 on:
   push:
