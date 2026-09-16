@@ -1,4 +1,4 @@
-npx @alchemy/cli <command>alchemy usage timeseries --start-date 2026-09-01 --products SUPERNODE_CU,SUPERNODE_ENHANCED_CU --request-types http --metrics amountcurl https://eth-mainnet.g.alchemy.com/v2/alch_BkzjVZhhj0AMzQ8js8wP1 \
+L7-6HGB6-V2DY8-Z9VEUnpx @alchemy/cli <command>alchemy usage timeseries --start-date 2026-09-01 --products SUPERNODE_CU,SUPERNODE_ENHANCED_CU --request-types http --metrics amountcurl https://eth-mainnet.g.alchemy.com/v2/alch_BkzjVZhhj0AMzQ8js8wP1 \
      --request POST \
      --header 'accept: application/json' \
      --header 'content-type: application/json' \
